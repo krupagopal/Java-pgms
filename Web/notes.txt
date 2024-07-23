@@ -1,0 +1,11 @@
+3rd July 
+meta tag used in search engine.
+
+8th July
+types of styles 
+inline - powerful it is 
+internal- given in head body{
+background colour
+}
+external
+to file and link it
